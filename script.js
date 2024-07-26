@@ -19,20 +19,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "?",
+        enunciado: "Durante a tarde vocé assiste a um jornal, que fez uma reportagem sobre o lixo descartado inadequadamente, e vocé se lembra do papel de bala!",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "lembro-me de ter guardado o papel para fazer o descarte adequadamente.",
+                afirmacao: "fica feliz de ter feito a escolha correta para o meio ambiente."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "lembro-me de ter jogado o papel no chão.",
+                afirmacao: "sentiu um pouco de culpa por sua ação anterior."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
