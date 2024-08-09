@@ -22,30 +22,30 @@ const perguntas = [
         enunciado: "Durante a tarde vocé assiste a um jornal, que fez uma reportagem sobre o lixo descartado inadequadamente, e vocé se lembra do papel de bala!",
         alternativas: [
             {
-                texto: "lembro-me de ter guardado o papel para fazer o descarte adequadamente.",
-                afirmacao: "fica feliz de ter feito a escolha correta para o meio ambiente."
+                texto: "Lembro-me de ter guardado o papel para fazer o descarte adequadamente.",
+                afirmacao: "Fica feliz de ter feito a escolha correta para o meio ambiente."
             },
             {
-                texto: "lembro-me de ter jogado o papel no chão.",
-                afirmacao: "sentiu um pouco de culpa por sua ação anterior."
+                texto: "Lembro-me de ter jogado o papel no chão.",
+                afirmacao: "Sentiu um pouco de culpa por sua ação anterior."
+            }
+        ]
+    },
+    {
+        enunciado: "No dia seguinte sua professora pergunta para a turma qual a opimião deles sobre o descarte inadequado de lixo?",
+        alternativas: [
+            {
+                texto: "Você respondeu que é algo muito errado de se fazer.",
+                afirmacao: "Você está sendo uma pessoa consciente."
+            },
+            {
+                texto: "Você respondeu que não vê nada de errado no descarte inadequado.",
+                afirmacao: "Você é uma pessoa muito ignorante."
             }
         ]
     },
     {
         enunciado: "?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
-            }
-        ]
-    },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
