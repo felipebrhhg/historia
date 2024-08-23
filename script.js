@@ -45,29 +45,33 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "?",
+        enunciado: "Daqui a alguns dias sua turma vai fazer um debate sobre o descarte inadequado de lixo, e qual lado você ira defender?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Vai explicar o porqué isso é errado.",
+                afirmacao: "Está se mostrando uma pessoa de caráter."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Quer explicar que isso não é algo tão alarmante.",
+                afirmacao: "Você não é uma boa pessoa."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Após o debate vocé tem que falar se mudou de opinião perante as afirmações do outro grupo.",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Continua achando que é algo errado.",
+                afirmacao: "Manteve o seu pensamento correto."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
+                texto: "Continua achando algo não tão grave.",
+                afirmacao: "Continua sendo uma má pessoa. "
+            },
+            {
+                texto: "Mudou seu pensamento e começou a perceber o quão grave isso é.",
+                afirmacao: "No final se mostrou uma pessoa de bem."
+            },
         ]
     },
 ];
